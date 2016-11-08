@@ -1,1 +1,2 @@
-Total Stock In the Shop: 550
+Total updated Stock In the Shop is :240
+
